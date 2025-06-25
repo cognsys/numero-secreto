@@ -1,0 +1,20 @@
+Você está desenvolvendo um projeto para um Supermercado Online. Após desenvolver algumas funcionalidades, testar e fazer ajustes, você percebeu que precisa compartilhar o projeto com sua equipe. Para isso, você decide utilizar o GitHub. No momento, o código do projeto existe apenas no seu computador e você deseja conectá-lo a um repositório remoto criado no GitHub.
+
+Qual comando você poderia utilizar para conectar seu projeto local do Git com o repositório remoto no GitHub?
+
+- Utilizando o comando git remote add origin url-do-repositorio-no-github no terminal.
+Alternativa correta
+O comando git remote add origin url-do-repositorio-no-github é o utilizado para conectar seu repositório local ao repositório remoto no Github.
+
+- Utilizando o comando git clone url-do-repositorio-no-github no terminal.
+Alternativa incorreta
+O comando git clone é utilizado para clonar um repositório git existente em um novo diretório. Não é usado para conectar o projeto local ao repositório remoto.
+
+- Utilizando o comando git push origin main no terminal.
+Alternativa incorreta
+O comando git push origin main é utilizado para enviar os commits e alterações realizadas no repositório local para o repositório remoto. No entanto, isso é feito após a conexão entre os repositórios local e remoto ter sido configurada.
+
+- Utilizaria o comando git connect url-do-repositorio-no-github no terminal.
+
+Alternativa incorreta
+O comando git connect não existe no Git.
